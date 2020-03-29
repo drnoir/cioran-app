@@ -1,8 +1,11 @@
 # Cioran Quote Generator 
 A react project that displays quotes from the pessimistic philosopher Cioran based on user selecting different moods
 Feel free to fork, copy etc etc - I just did this as a bit of fun. 
+![Cioran Quote Generator](https://github.com/drnoir/cioran-app/blob/master/quoteapp.jpg)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
